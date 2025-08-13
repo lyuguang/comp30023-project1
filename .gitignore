@@ -1,3 +1,13 @@
-*.o
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
 
-allocate
+.vscode/
+
+*.o
+*.a
+*.so
+*.out
+
+.make.deps
